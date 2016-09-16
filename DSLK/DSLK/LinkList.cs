@@ -11,7 +11,6 @@ namespace DSLK
         static void Main()
         {
             LinkedList<int> list = new LinkedList<int>();
-            list.AddLast(2);
             list.AddFirst(1);
             for (int i = 0; i < 4; i++)
             {
